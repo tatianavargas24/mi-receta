@@ -21,3 +21,10 @@ Mi recomendación es tener todos los ingredientes listos
 antes de comenzar y preparar la receta con paciencia.
 Lo más importante es disfrutar el proceso y darle
 nuestro toque personal.
+
+## 🍽️ Presentación del plato
+
+Para servir esta preparación, recomiendo utilizar
+un plato limpio y organizar los ingredientes de
+manera agradable. La presentación también hace
+parte de disfrutar una buena receta.
