@@ -21,6 +21,7 @@ Mi recomendación es tener todos los ingredientes listos
 antes de comenzar y preparar la receta con paciencia.
 Lo más importante es disfrutar el proceso y darle
 nuestro toque personal.
+Lo más importante es disfrutar cada preparación y cocinar siempre con amor.
 
 ## 🍽️ Presentación del plato
 
