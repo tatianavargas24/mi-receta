@@ -14,3 +14,8 @@ y compartir con las personas que quiero.
 
 Para mí, cocinar es una forma de demostrar cariño,
 creatividad y dedicación a través de la comida.
+
+## Lo que aprendí
+
+Con esta receta puedo seguir practicando mis habilidades
+en la cocina y aprender nuevas formas de preparar alimentos.
