@@ -29,3 +29,6 @@ Para servir esta preparación, recomiendo utilizar
 un plato limpio y organizar los ingredientes de
 manera agradable. La presentación también hace
 parte de disfrutar una buena receta.
+
+---
+*Preparado con dedicación y mucho cariño.*

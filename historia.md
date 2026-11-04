@@ -19,3 +19,10 @@ creatividad y dedicación a través de la comida.
 
 Con esta receta puedo seguir practicando mis habilidades
 en la cocina y aprender nuevas formas de preparar alimentos.
+
+
+## Mi experiencia
+
+Realizar esta actividad me permitió practicar el uso de Git,
+aprender a guardar los cambios y comprender la importancia
+de llevar un historial organizado de un proyecto.
