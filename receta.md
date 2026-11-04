@@ -6,6 +6,7 @@
 - Porciones: 4 personas.
 
 ## Preparación
+## Recomendaciones para la preparación
 
 1. Organizar y alistar todos los ingredientes.
 2. Lavar y preparar los ingredientes necesarios.
