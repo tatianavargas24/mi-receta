@@ -1,7 +1,10 @@
 # Fotos
 
-## Foto 1
-![Foto de la receta](image.png)
+## Arroz con pollo
+![Arroz con pollo](image.png)
 
-## Foto 2
-![Foto de la receta](image-1.png)
+## Arroz con leche
+![Arroz con leche](arroz%20con%20leche.webp)
+
+## Limonada de coco
+![Limonada de coco](limonada%20de%20coco.jpg)
